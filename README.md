@@ -39,19 +39,21 @@ A free and open-source **React + Tailwind CSS admin dashboard template** with re
 
 ---
 
+
 ## 🖼️ Screenshots  
 
-### 📌 image 1  
-!(./images/image1.png)  
+### 📌 Image 1  
+![Dashboard Screenshot](./images/image1.png)  
 
-### 📌 image 2  
-!(./images/image2.png)  
+### 📌 Image 2  
+![Sidebar Screenshot](./images/image2.png)  
 
-### 📌image 3  
-!(./images/image3.png) 
+### 📌 Image 3  
+![Charts Screenshot](./images/image3.png)  
 
-### 📌 image 4  
-!(./images/image4.png) 
+### 📌 Image 4  
+![Dark Mode Screenshot](./images/image4.png)  
+
 
 ---
 
